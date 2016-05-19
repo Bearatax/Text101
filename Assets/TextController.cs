@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using System.Collections;
 
-
+//Test comment
 public class TextController : MonoBehaviour {
 
 	public Text text;
